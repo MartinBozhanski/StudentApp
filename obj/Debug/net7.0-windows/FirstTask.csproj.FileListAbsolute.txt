@@ -1,0 +1,16 @@
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.Form1.resources
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.AssemblyInfo.cs
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\C++\FirstTask\bin\Debug\net7.0-windows\FirstTask.exe
+C:\Users\Martin\Desktop\C++\FirstTask\bin\Debug\net7.0-windows\FirstTask.deps.json
+C:\Users\Martin\Desktop\C++\FirstTask\bin\Debug\net7.0-windows\FirstTask.runtimeconfig.json
+C:\Users\Martin\Desktop\C++\FirstTask\bin\Debug\net7.0-windows\FirstTask.dll
+C:\Users\Martin\Desktop\C++\FirstTask\bin\Debug\net7.0-windows\FirstTask.pdb
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.dll
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\refint\FirstTask.dll
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.pdb
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\FirstTask.genruntimeconfig.cache
+C:\Users\Martin\Desktop\C++\FirstTask\obj\Debug\net7.0-windows\ref\FirstTask.dll
